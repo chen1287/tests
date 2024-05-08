@@ -1,0 +1,321 @@
+MLVP_INFO @interface.py:59:	signal "brSlots_0_offset" is connected
+MLVP_INFO @interface.py:59:	signal "brSlots_0_lower" is connected
+MLVP_INFO @interface.py:59:	signal "brSlots_0_tarStat" is connected
+MLVP_INFO @interface.py:59:	signal "brSlots_0_valid" is connected
+MLVP_INFO @interface.py:59:	signal "tailSlot_offset" is connected
+MLVP_INFO @interface.py:59:	signal "tailSlot_lower" is connected
+MLVP_INFO @interface.py:59:	signal "tailSlot_tarStat" is connected
+MLVP_INFO @interface.py:59:	signal "tailSlot_sharing" is connected
+MLVP_INFO @interface.py:59:	signal "tailSlot_valid" is connected
+MLVP_INFO @interface.py:59:	signal "pftAddr" is connected
+MLVP_INFO @interface.py:59:	signal "carry" is connected
+MLVP_INFO @interface.py:59:	signal "always_taken_0" is connected
+MLVP_INFO @interface.py:59:	signal "always_taken_1" is connected
+MLVP_WARNING @interface.py:36:	signal "isCall" is not connected
+MLVP_WARNING @interface.py:36:	signal "isRet" is not connected
+MLVP_WARNING @interface.py:36:	signal "isJalr" is not connected
+MLVP_WARNING @interface.py:36:	signal "last_may_be_rvi_call" is not connected
+MLVP_INFO @interface.py:59:	signal "valid" is connected
+MLVP_INFO @interface.py:59:	signal "bits_pc" is connected
+MLVP_INFO @interface.py:59:	signal "bits_br_taken_mask_0" is connected
+MLVP_INFO @interface.py:59:	signal "bits_br_taken_mask_1" is connected
+MLVP_INFO @interface.py:59:	signal "hit" is connected
+MLVP_INFO @interface.py:59:	signal "slot_valids_0" is connected
+MLVP_INFO @interface.py:59:	signal "slot_valids_1" is connected
+MLVP_INFO @interface.py:59:	signal "targets_0" is connected
+MLVP_INFO @interface.py:59:	signal "targets_1" is connected
+MLVP_INFO @interface.py:59:	signal "offsets_0" is connected
+MLVP_INFO @interface.py:59:	signal "offsets_1" is connected
+MLVP_INFO @interface.py:59:	signal "fallThroughAddr" is connected
+MLVP_INFO @interface.py:59:	signal "fallThroughErr" is connected
+MLVP_INFO @interface.py:59:	signal "is_br_sharing" is connected
+MLVP_INFO @interface.py:59:	signal "br_taken_mask_0" is connected
+MLVP_INFO @interface.py:59:	signal "br_taken_mask_1" is connected
+MLVP_WARNING @interface.py:36:	signal "is_jal" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_jalr" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_call" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_ret" is not connected
+MLVP_WARNING @interface.py:36:	signal "last_may_be_rvi_call" is not connected
+MLVP_WARNING @interface.py:36:	signal "jalr_target" is not connected
+MLVP_INFO @interface.py:59:	signal "pc_3" is connected
+MLVP_WARNING @interface.py:36:	signal "valid" is not connected
+MLVP_WARNING @interface.py:36:	signal "hasRedirect" is not connected
+MLVP_WARNING @interface.py:36:	signal "ftq_idx" is not connected
+MLVP_WARNING @interface.py:36:	signal "hit" is not connected
+MLVP_WARNING @interface.py:36:	signal "slot_valids_0" is not connected
+MLVP_WARNING @interface.py:36:	signal "slot_valids_1" is not connected
+MLVP_WARNING @interface.py:36:	signal "targets_0" is not connected
+MLVP_WARNING @interface.py:36:	signal "targets_1" is not connected
+MLVP_WARNING @interface.py:36:	signal "offsets_0" is not connected
+MLVP_WARNING @interface.py:36:	signal "offsets_1" is not connected
+MLVP_WARNING @interface.py:36:	signal "fallThroughAddr" is not connected
+MLVP_WARNING @interface.py:36:	signal "fallThroughErr" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_jal" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_jalr" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_call" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_ret" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_br_sharing" is not connected
+MLVP_WARNING @interface.py:36:	signal "last_may_be_rvi_call" is not connected
+MLVP_WARNING @interface.py:36:	signal "br_taken_mask_0" is not connected
+MLVP_WARNING @interface.py:36:	signal "br_taken_mask_1" is not connected
+MLVP_WARNING @interface.py:36:	signal "jalr_target" is not connected
+MLVP_WARNING @interface.py:36:	signal "pc_3" is not connected
+MLVP_WARNING @interface.py:36:	signal "valid" is not connected
+MLVP_WARNING @interface.py:36:	signal "hasRedirect" is not connected
+MLVP_WARNING @interface.py:36:	signal "ftq_idx" is not connected
+MLVP_WARNING @interface.py:36:	signal "hit" is not connected
+MLVP_WARNING @interface.py:36:	signal "slot_valids_0" is not connected
+MLVP_WARNING @interface.py:36:	signal "slot_valids_1" is not connected
+MLVP_WARNING @interface.py:36:	signal "targets_0" is not connected
+MLVP_WARNING @interface.py:36:	signal "targets_1" is not connected
+MLVP_WARNING @interface.py:36:	signal "offsets_0" is not connected
+MLVP_WARNING @interface.py:36:	signal "offsets_1" is not connected
+MLVP_WARNING @interface.py:36:	signal "fallThroughAddr" is not connected
+MLVP_WARNING @interface.py:36:	signal "fallThroughErr" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_jal" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_jalr" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_call" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_ret" is not connected
+MLVP_WARNING @interface.py:36:	signal "is_br_sharing" is not connected
+MLVP_WARNING @interface.py:36:	signal "last_may_be_rvi_call" is not connected
+MLVP_WARNING @interface.py:36:	signal "br_taken_mask_0" is not connected
+MLVP_WARNING @interface.py:36:	signal "br_taken_mask_1" is not connected
+MLVP_WARNING @interface.py:36:	signal "jalr_target" is not connected
+MLVP_WARNING @interface.py:36:	signal "pc_3" is not connected
+MLVP_WARNING @interface.py:36:	signal "valid" is not connected
+MLVP_WARNING @interface.py:36:	signal "hasRedirect" is not connected
+MLVP_WARNING @interface.py:36:	signal "ftq_idx" is not connected
+MLVP_WARNING @interface.py:36:	signal "brSlots_0_offset" is not connected
+MLVP_WARNING @interface.py:36:	signal "brSlots_0_lower" is not connected
+MLVP_WARNING @interface.py:36:	signal "brSlots_0_tarStat" is not connected
+MLVP_WARNING @interface.py:36:	signal "brSlots_0_valid" is not connected
+MLVP_WARNING @interface.py:36:	signal "tailSlot_offset" is not connected
+MLVP_WARNING @interface.py:36:	signal "tailSlot_lower" is not connected
+MLVP_WARNING @interface.py:36:	signal "tailSlot_tarStat" is not connected
+MLVP_WARNING @interface.py:36:	signal "tailSlot_sharing" is not connected
+MLVP_WARNING @interface.py:36:	signal "tailSlot_valid" is not connected
+MLVP_WARNING @interface.py:36:	signal "pftAddr" is not connected
+MLVP_WARNING @interface.py:36:	signal "carry" is not connected
+MLVP_WARNING @interface.py:36:	signal "isCall" is not connected
+MLVP_WARNING @interface.py:36:	signal "isRet" is not connected
+MLVP_WARNING @interface.py:36:	signal "isJalr" is not connected
+MLVP_WARNING @interface.py:36:	signal "last_may_be_rvi_call" is not connected
+MLVP_WARNING @interface.py:36:	signal "always_taken_0" is not connected
+MLVP_WARNING @interface.py:36:	signal "always_taken_1" is not connected
+MLVP_INFO @interface.py:59:	signal "last_stage_meta" is connected
+MLVP_INFO @interface.py:59:	signal "s0_fire_0" is connected
+MLVP_INFO @interface.py:59:	signal "s0_fire_1" is connected
+MLVP_INFO @interface.py:59:	signal "s0_fire_2" is connected
+MLVP_INFO @interface.py:59:	signal "s0_fire_3" is connected
+MLVP_INFO @interface.py:59:	signal "s1_fire_0" is connected
+MLVP_INFO @interface.py:59:	signal "s2_fire_0" is connected
+MLVP_WARNING @interface.py:36:	signal "s1_fire_1" is not connected
+MLVP_WARNING @interface.py:36:	signal "s1_fire_2" is not connected
+MLVP_WARNING @interface.py:36:	signal "s1_fire_3" is not connected
+MLVP_WARNING @interface.py:36:	signal "s2_fire_1" is not connected
+MLVP_WARNING @interface.py:36:	signal "s2_fire_2" is not connected
+MLVP_WARNING @interface.py:36:	signal "s2_fire_3" is not connected
+MLVP_WARNING @interface.py:36:	signal "s3_fire_0" is not connected
+MLVP_WARNING @interface.py:36:	signal "s3_fire_1" is not connected
+MLVP_WARNING @interface.py:36:	signal "s3_fire_2" is not connected
+MLVP_WARNING @interface.py:36:	signal "s3_fire_3" is not connected
+MLVP_WARNING @interface.py:36:	signal "s1_ready" is not connected
+MLVP_WARNING @interface.py:36:	signal "s2_ready" is not connected
+MLVP_WARNING @interface.py:36:	signal "s3_ready" is not connected
+MLVP_WARNING @interface.py:36:	signal "s2_redirect" is not connected
+MLVP_WARNING @interface.py:36:	signal "s3_redirect" is not connected
+MLVP_INFO @interface.py:59:	signal "ubtb_enable" is connected
+MLVP_WARNING @interface.py:36:	signal "btb_enable" is not connected
+MLVP_WARNING @interface.py:36:	signal "bim_enable" is not connected
+MLVP_WARNING @interface.py:36:	signal "tage_enable" is not connected
+MLVP_WARNING @interface.py:36:	signal "sc_enable" is not connected
+MLVP_WARNING @interface.py:36:	signal "ras_enable" is not connected
+MLVP_WARNING @interface.py:36:	signal "loop_enable" is not connected
+MLVP_INFO @ftq.py:58:	==============================
+Summary
+[Conditional Branches]
+Total: 8379, Correct: 4523, Accuracy: 0.5398018856665473
+PC: 0x80006448	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80007b3c	Total: 6	Correct: 4	Accuracy: 0.6666666666666666
+PC: 0x80007b46	Total: 5	Correct: 1	Accuracy: 0.2
+PC: 0x8000645a	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000646e	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80007458	Total: 6	Correct: 3	Accuracy: 0.5
+PC: 0x80007462	Total: 6	Correct: 3	Accuracy: 0.5
+PC: 0x80007496	Total: 71	Correct: 54	Accuracy: 0.7605633802816901
+PC: 0x80006e7c	Total: 111	Correct: 100	Accuracy: 0.9009009009009009
+PC: 0x80006740	Total: 105	Correct: 101	Accuracy: 0.9619047619047619
+PC: 0x8000674e	Total: 105	Correct: 100	Accuracy: 0.9523809523809523
+PC: 0x8000748c	Total: 71	Correct: 62	Accuracy: 0.8732394366197183
+PC: 0x800074b0	Total: 5	Correct: 1	Accuracy: 0.2
+PC: 0x800074c8	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x800074d0	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x800074e0	Total: 5	Correct: 0	Accuracy: 0.0
+PC: 0x800074ee	Total: 5	Correct: 0	Accuracy: 0.0
+PC: 0x8000754e	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x80007772	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x80007850	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x80007790	Total: 39	Correct: 16	Accuracy: 0.41025641025641024
+PC: 0x80007786	Total: 34	Correct: 25	Accuracy: 0.7352941176470589
+PC: 0x8000779a	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x800077b0	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x80007980	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x80007ad2	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x800077b6	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x800078a2	Total: 39	Correct: 29	Accuracy: 0.7435897435897436
+PC: 0x800078a6	Total: 5	Correct: 1	Accuracy: 0.2
+PC: 0x80006760	Total: 2	Correct: 0	Accuracy: 0.0
+PC: 0x800075cc	Total: 6	Correct: 2	Accuracy: 0.3333333333333333
+PC: 0x800067aa	Total: 4	Correct: 0	Accuracy: 0.0
+PC: 0x800067ae	Total: 4	Correct: 0	Accuracy: 0.0
+PC: 0x800067b6	Total: 4	Correct: 0	Accuracy: 0.0
+PC: 0x800067be	Total: 4	Correct: 0	Accuracy: 0.0
+PC: 0x800069b0	Total: 4	Correct: 0	Accuracy: 0.0
+PC: 0x8000652a	Total: 2	Correct: 0	Accuracy: 0.0
+PC: 0x80004b54	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80004b5a	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80004b60	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80004b6a	Total: 50	Correct: 45	Accuracy: 0.9
+PC: 0x80004b7a	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80003602	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000362e	Total: 100	Correct: 98	Accuracy: 0.98
+PC: 0x80003656	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000367c	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x800036a0	Total: 403	Correct: 304	Accuracy: 0.7543424317617866
+PC: 0x800036b4	Total: 403	Correct: 369	Accuracy: 0.9156327543424317
+PC: 0x800030be	Total: 8	Correct: 3	Accuracy: 0.375
+PC: 0x800036ce	Total: 8	Correct: 2	Accuracy: 0.25
+PC: 0x800036e4	Total: 7	Correct: 2	Accuracy: 0.2857142857142857
+PC: 0x800030d6	Total: 7	Correct: 2	Accuracy: 0.2857142857142857
+PC: 0x80003100	Total: 143	Correct: 83	Accuracy: 0.5804195804195804
+PC: 0x80003116	Total: 143	Correct: 100	Accuracy: 0.6993006993006993
+PC: 0x8000312a	Total: 15	Correct: 7	Accuracy: 0.4666666666666667
+PC: 0x8000313c	Total: 14	Correct: 5	Accuracy: 0.35714285714285715
+PC: 0x80003166	Total: 101	Correct: 50	Accuracy: 0.49504950495049505
+PC: 0x8000317c	Total: 101	Correct: 54	Accuracy: 0.5346534653465347
+PC: 0x80003190	Total: 20	Correct: 10	Accuracy: 0.5
+PC: 0x80003562	Total: 20	Correct: 13	Accuracy: 0.65
+PC: 0x8000357e	Total: 15	Correct: 7	Accuracy: 0.4666666666666667
+PC: 0x800031a2	Total: 15	Correct: 3	Accuracy: 0.2
+PC: 0x800031ca	Total: 43	Correct: 11	Accuracy: 0.2558139534883721
+PC: 0x800031e0	Total: 43	Correct: 11	Accuracy: 0.2558139534883721
+PC: 0x800031f6	Total: 13	Correct: 1	Accuracy: 0.07692307692307693
+PC: 0x80003208	Total: 10	Correct: 0	Accuracy: 0.0
+PC: 0x80003230	Total: 14	Correct: 2	Accuracy: 0.14285714285714285
+PC: 0x80003244	Total: 14	Correct: 4	Accuracy: 0.2857142857142857
+PC: 0x80003258	Total: 8	Correct: 2	Accuracy: 0.25
+PC: 0x8000351e	Total: 8	Correct: 1	Accuracy: 0.125
+PC: 0x8000353c	Total: 6	Correct: 0	Accuracy: 0.0
+PC: 0x80003540	Total: 13	Correct: 5	Accuracy: 0.38461538461538464
+PC: 0x8000355c	Total: 8	Correct: 4	Accuracy: 0.5
+PC: 0x80003586	Total: 15	Correct: 7	Accuracy: 0.4666666666666667
+PC: 0x800035a0	Total: 12	Correct: 4	Accuracy: 0.3333333333333333
+PC: 0x8000326a	Total: 3	Correct: 0	Accuracy: 0.0
+PC: 0x80003292	Total: 2	Correct: 0	Accuracy: 0.0
+PC: 0x800032a8	Total: 2	Correct: 0	Accuracy: 0.0
+PC: 0x800032bc	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x800032ce	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x800034fc	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000351a	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80004be6	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80004c26	Total: 99	Correct: 95	Accuracy: 0.9595959595959596
+PC: 0x8000656c	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006582	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x800065a6	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x800065d4	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006508	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x800005ae	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80000220	Total: 8	Correct: 0	Accuracy: 0.0
+PC: 0x80000232	Total: 8	Correct: 0	Accuracy: 0.0
+PC: 0x8000024e	Total: 40	Correct: 0	Accuracy: 0.0
+PC: 0x80000278	Total: 40	Correct: 0	Accuracy: 0.0
+PC: 0x80000296	Total: 130	Correct: 42	Accuracy: 0.3230769230769231
+PC: 0x800002c0	Total: 130	Correct: 9	Accuracy: 0.06923076923076923
+PC: 0x800002e0	Total: 324	Correct: 189	Accuracy: 0.5833333333333334
+PC: 0x8000030e	Total: 324	Correct: 180	Accuracy: 0.5555555555555556
+PC: 0x8000032e	Total: 535	Correct: 357	Accuracy: 0.6672897196261682
+PC: 0x8000035a	Total: 535	Correct: 249	Accuracy: 0.4654205607476635
+PC: 0x800004e2	Total: 534	Correct: 206	Accuracy: 0.3857677902621723
+PC: 0x800004f0	Total: 323	Correct: 92	Accuracy: 0.2848297213622291
+PC: 0x80000378	Total: 526	Correct: 318	Accuracy: 0.6045627376425855
+PC: 0x800003aa	Total: 526	Correct: 200	Accuracy: 0.38022813688212925
+PC: 0x800003c6	Total: 303	Correct: 174	Accuracy: 0.5742574257425742
+PC: 0x800003f4	Total: 302	Correct: 87	Accuracy: 0.28807947019867547
+PC: 0x800004c8	Total: 302	Correct: 196	Accuracy: 0.6490066225165563
+PC: 0x800004d4	Total: 525	Correct: 310	Accuracy: 0.5904761904761905
+PC: 0x800004fe	Total: 129	Correct: 19	Accuracy: 0.14728682170542637
+PC: 0x8000050c	Total: 39	Correct: 0	Accuracy: 0.0
+PC: 0x8000040e	Total: 92	Correct: 21	Accuracy: 0.22826086956521738
+PC: 0x800004be	Total: 92	Correct: 48	Accuracy: 0.5217391304347826
+PC: 0x800005cc	Total: 7	Correct: 0	Accuracy: 0.0
+[Jump Branches]
+Total: 1060, Correct: 659, Accuracy: 0.6216981132075472
+PC: 0x80000016	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000671e	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000673c	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000672a	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006456	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80007b50	Type: ret	Total: 2	Correct: 0	Accuracy: 0.0
+PC: 0x80006468	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80007b54	Type: jmp	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006486	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006788	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006afe	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000678c	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006a7c	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006790	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006b00	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000679a	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006494	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80007b0e	Type: call	Total: 6	Correct: 3	Accuracy: 0.5
+PC: 0x8000747c	Type: jmp	Total: 6	Correct: 3	Accuracy: 0.5
+PC: 0x80007486	Type: call	Total: 66	Correct: 63	Accuracy: 0.9545454545454546
+PC: 0x80006e80	Type: jmp	Total: 105	Correct: 103	Accuracy: 0.9809523809523809
+PC: 0x800066fe	Type: jmp	Total: 105	Correct: 103	Accuracy: 0.9809523809523809
+PC: 0x80006754	Type: ret	Total: 105	Correct: 89	Accuracy: 0.8476190476190476
+PC: 0x80007502	Type: jalr	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x80007562	Type: jalr	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x80007784	Type: jmp	Total: 5	Correct: 1	Accuracy: 0.2
+PC: 0x80007894	Type: call	Total: 39	Correct: 31	Accuracy: 0.7948717948717948
+PC: 0x800078d2	Type: jmp	Total: 5	Correct: 2	Accuracy: 0.4
+PC: 0x80006768	Type: jmp	Total: 2	Correct: 0	Accuracy: 0.0
+PC: 0x800075dc	Type: call	Total: 6	Correct: 2	Accuracy: 0.3333333333333333
+PC: 0x80006e7e	Type: ret	Total: 6	Correct: 2	Accuracy: 0.3333333333333333
+PC: 0x800075fc	Type: ret	Total: 6	Correct: 2	Accuracy: 0.3333333333333333
+PC: 0x80007b16	Type: ret	Total: 6	Correct: 0	Accuracy: 0.0
+PC: 0x80006498	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80007b28	Type: call	Total: 4	Correct: 0	Accuracy: 0.0
+PC: 0x800067c2	Type: jmp	Total: 4	Correct: 0	Accuracy: 0.0
+PC: 0x80006a66	Type: ret	Total: 4	Correct: 0	Accuracy: 0.0
+PC: 0x80007b32	Type: ret	Total: 4	Correct: 0	Accuracy: 0.0
+PC: 0x800064f4	Type: jmp	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006530	Type: call	Total: 2	Correct: 0	Accuracy: 0.0
+PC: 0x8000654a	Type: call	Total: 2	Correct: 0	Accuracy: 0.0
+PC: 0x800035d0	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80004bb8	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x800035f6	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80004b84	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80003608	Type: call	Total: 100	Correct: 98	Accuracy: 0.98
+PC: 0x80004be2	Type: ret	Total: 200	Correct: 0	Accuracy: 0.0
+PC: 0x80003610	Type: call	Total: 100	Correct: 99	Accuracy: 0.99
+PC: 0x8000363e	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000654c	Type: call	Total: 2	Correct: 0	Accuracy: 0.0
+PC: 0x8000655a	Type: call	Total: 2	Correct: 0	Accuracy: 0.0
+PC: 0x800036ca	Type: call	Total: 8	Correct: 3	Accuracy: 0.375
+PC: 0x800035c0	Type: ret	Total: 8	Correct: 2	Accuracy: 0.25
+PC: 0x8000370a	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000655c	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80006568	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80003724	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80004c48	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x80003740	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000657c	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000658e	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x800065cc	Type: call	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x8000059a	Type: ret	Total: 1	Correct: 0	Accuracy: 0.0
+PC: 0x800005c6	Type: call	Total: 8	Correct: 0	Accuracy: 0.0
+PC: 0x80000538	Type: jmp	Total: 92	Correct: 49	Accuracy: 0.532608695652174
+PC: 0x8000052e	Type: ret	Total: 7	Correct: 0	Accuracy: 0.0
+[All Branches]
+Total: 9439, Correct: 5182, Accuracy: 0.5489988346223117
+
